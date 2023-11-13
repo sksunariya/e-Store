@@ -18,7 +18,7 @@ export const reviews = [
       name: "Vipin Vashisth",
       job: "",
       image: "https://media.licdn.com/dms/image/D4D03AQEJXpTZ8hur1Q/profile-displayphoto-shrink_800_800/0/1690820182202?e=2147483647&v=beta&t=aIDuxuVPs35G7SUKBoombtYDfZPSxrorKS5XA-tEeqY",
-      text: "I thrilled with the quality of clothes I bought from this website. e-Store is best website I have ever found.",
+      text: "I am thrilled with the quality of clothes I bought from this website. e-Store is best website I have ever found.",
     },
     {
       id: 4,
