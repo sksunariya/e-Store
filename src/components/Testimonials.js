@@ -25,7 +25,7 @@ function Testimonials(){
 
     return (
         <div className='w-[85vw] md:w-[700px] bg-white flex flex-col justify-center items-center p-10 transition-all duration-700 hover:shadow-xla'>
-            <Card review={fakereviews[index]}/>
+            <Card review={reviews[index]}/>
 
             <div className='flex text-3xl my-5 gap-7 text-violet-400 font-bold'>
                 <button onClick={leftHandler} className='cursor-pointer hover:text-violet-500'>
